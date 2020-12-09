@@ -131,6 +131,18 @@ section.hero-home > .container::before {
   font-size: 0.9rem;
 }
 
+.intro {
+	background-color: #0055FF;
+}
+.intro h3 {
+	color: #fff;
+	margin-top: 0;
+}
+.intro p { 
+	color: #fff;
+	font-weight: 400;
+}
+
 .tooltip-inner {
   background-color: #0055FF;
   font-family: "Work Sans", sans-serif;
@@ -335,6 +347,12 @@ section.hero-home > .container::before {
 
 .pt-8{
     padding-top: 120px;
+}
+
+#intro{
+    padding: 80px;
+    background-image: linear-gradient(to right, #0038d0, #0055FF);
+    color: #fff;
 }
 
 /* Timeline holder */
