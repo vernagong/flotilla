@@ -170,8 +170,9 @@ section.hero-home > .container::before {
 }
 
 .align-items-end{
-    padding-top: 100px;
-    background-color: #262626;
+    padding-top: 120px;
+    padding-bottom: 40px;
+    background-color: #0055ff;
 }
 
 .social-link {
